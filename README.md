@@ -6,3 +6,5 @@
   <li>Iteration through colors applying a hue to each</li>
   <li>Very basic to display iterative potential / possiblities</li>
 </ul>
+
+<p>Contact for instructions or improvements</p>
