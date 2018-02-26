@@ -4,7 +4,8 @@
 <ul>
   <li>Builds the main.css file from the main.scss file</li>
   <li>Iteration through colors applying a hue to each</li>
-  <li>Very basic to display iterative potential / possiblities</li>
+  <li> -- Very basic to display iterative potential / possiblities</li>
+  <li> -- Production ready updates in future</li>
 </ul>
 
 <p>Contact for instructions or improvements</p>
