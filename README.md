@@ -8,4 +8,4 @@
   <li> -- Production ready updates in future</li>
 </ul>
 
-<p>Contact for instructions or improvements</p>
+<p>Contact for instructions or improvements.</p>
