@@ -1,5 +1,5 @@
 # sassRainbow
-<p>Solution for SASS iteration using for loop</p>
+<p>Solution for SASS iteration using for loop.</p>
 
 <ul>
   <li>Builds the main.css file from the main.scss file</li>
