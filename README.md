@@ -8,4 +8,6 @@
   <li> -- Production ready updates in future</li>
 </ul>
 
+<img src="https://github.com/fabianfranklinhuffstead/sassRainbow/blob/master/css/figure1.png" width="50%" height="50%">
+
 <p>Contact for instructions or improvements.</p>
